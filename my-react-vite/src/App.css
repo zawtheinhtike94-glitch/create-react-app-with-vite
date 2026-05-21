@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #0f172a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 55px;
+  color: white;
+}
+
+p {
+  font-size: 24px;
+  color: #e2e8f0;
+}
+
+.emoji {
+  font-size: 80px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
